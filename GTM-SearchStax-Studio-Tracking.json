@@ -92,7 +92,7 @@
                     {
                         "type": "TEMPLATE",
                         "key": "eventName",
-                        "value": "searchstax_click"
+                        "value": "searchstax_search"
                     },
                     {
                         "type": "LIST",
